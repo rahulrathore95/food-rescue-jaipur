@@ -2,12 +2,12 @@
   "name": "food-rescue-jaipur",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "C:\\Users\\RahulRathore\\Downloads\\node-v22.14.0-win-x64\\node-v22.14.0-win-x64\\node.exe node_modules/next/dist/bin/next dev",
-    "build": "C:\\Users\\RahulRathore\\Downloads\\node-v22.14.0-win-x64\\node-v22.14.0-win-x64\\node.exe node_modules/next/dist/bin/next build",
-    "start": "C:\\Users\\RahulRathore\\Downloads\\node-v22.14.0-win-x64\\node-v22.14.0-win-x64\\node.exe node_modules/next/dist/bin/next start",
-    "lint": "C:\\Users\\RahulRathore\\Downloads\\node-v22.14.0-win-x64\\node-v22.14.0-win-x64\\node.exe node_modules/next/dist/bin/next lint"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+},
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-label": "^2.0.2",
