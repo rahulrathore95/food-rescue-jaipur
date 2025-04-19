@@ -22,7 +22,7 @@ A responsive website for Food Rescue Jaipur, an NGO dedicated to collecting surp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/food-rescue-jaipur.git
+git clone https://github.com/rahulrathore95/food-rescue-jaipur.git
 ```
 
 2. Install dependencies:
